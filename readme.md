@@ -15,5 +15,5 @@ from root folder
 
 #### compile command =>  mvn compile
 
-####run command => mvn exec:java -Dexec.mainClass="ANZ.Main"
+#### run command => mvn exec:java -Dexec.mainClass="ANZ.Main"
 maven 
